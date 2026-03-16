@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700;800&display=swap');
+
+:root {
+  --slidev-theme-primary: #3D6869;
+}
+
+/* Teal colored headings on content slides */
+.slidev-layout h1,
+.slidev-layout h2,
+.slidev-layout h3,
+.slidev-layout h4 {
+  color: #3D6869;
+}
+
+.slidev-layout h2 {
+  font-weight: 700;
+  margin-top: 18px;
+}
+
+/* Strong/bold items in lists get teal color */
+.slidev-layout li strong {
+  color: #3D6869;
+}
+
+.slidev-layout,
+.slidev-layout * {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.slidev-layout p,
+.slidev-layout li {
+  font-size: 18px;
+}
+
+/* Fade (dissolve) transition: 0.5s duration */
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+/* h3 breadcrumb: small text above h3 showing parent h2 title */
+.slidev-layout .h2-ref {
+  display: block;
+  font-size: 12px;
+  color: #999;
+  font-weight: 400;
+  margin-bottom: 14px;
+}

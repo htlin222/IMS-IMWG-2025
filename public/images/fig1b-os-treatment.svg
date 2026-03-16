@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#f5f5f5" stroke="#bbb" stroke-width="3" stroke-dasharray="12,6" rx="8"/>
+  <text x="400" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#888">Figure 1B — OS by Treatment (DKRd vs DVRd)</text>
+  <text x="400" y="280" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#aaa">[Replace with actual figure from paper]</text>
+</svg>

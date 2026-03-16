@@ -1,0 +1,35 @@
+{
+  "name": "my-slidev-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.11.0",
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
+  },
+  "devDependencies": {
+    "@iconify-json/devicon": "^1.2.59",
+    "@slidev/cli": "^52.12.0",
+    "@slidev/theme-default": "^0.25.0",
+    "@slidev/types": "^52.12.0",
+    "playwright-chromium": "^1.58.2",
+    "prettier": "^3.8.1",
+    "prettier-plugin-slidev": "^1.0.5"
+  },
+  "dependencies": {
+    "chart.js": "^4.5.1",
+    "dotenv": "^17.3.1",
+    "vue": "^3.5.28",
+    "vue-chartjs": "^5.3.3"
+  }
+}
