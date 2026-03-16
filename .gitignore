@@ -8,6 +8,8 @@ dist/
 *.pdf
 *.pptx
 *.png
+!public/images/*.png
+public/images/*.original.png
 
 # OS files
 .DS_Store
