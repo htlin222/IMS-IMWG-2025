@@ -9,16 +9,18 @@ mdc: true
 colorSchema: light
 layout: my-cover
 seriesName: IMS-IMWG 2025
-date: '2026-03-16'
+date: "2026-03-16"
 author: Journal Club Presenter
-email: ''
+email: ""
 ---
 
 # IMS-IMWG 2025 Consensus Genomic Staging Predicts Outcomes with Daratumumab-Based Quadruplet Regimens for NDMM
 
 Maclachlan KH, Tan CR, Usmani SZ et al. — Blood Advances 2025
 
-<!-- 這張投影片要強調：這是一篇 2025 年發表於 Blood Advances 的重要研究，首次在 daratumumab 四藥組合時代驗證 IMS-IMWG 共識基因體分期系統。提示下一頁：我們先從背景開始談起。 -->
+<!--
+這張投影片要強調：這是一篇 2025 年發表於 Blood Advances 的重要研究，首次在 daratumumab 四藥組合時代驗證 IMS-IMWG 共識基因體分期系統。提示下一頁：我們先從背景開始談起。
+-->
 
 ---
 layout: chapter
@@ -26,7 +28,9 @@ layout: chapter
 
 # Background
 
-<!-- 這張投影片要強調：接下來我們進入背景介紹，了解為什麼需要新的分期系統。提示下一頁：先簡介多發性骨髓瘤。 -->
+<!--
+這張投影片要強調：接下來我們進入背景介紹，了解為什麼需要新的分期系統。提示下一頁：先簡介多發性骨髓瘤。
+-->
 
 ---
 
@@ -43,20 +47,24 @@ Genomic aberrations determine disease biology, yet prior staging systems have no
 
 </div>
 
-<!-- 這張投影片要強調：NDMM 是異質性很高的疾病，基因體異常是預後的關鍵驅動因子，目前標準治療已進入 dara-quad 時代。提示下一頁：回顧過去分期系統的演進。 -->
+<!--
+這張投影片要強調：NDMM 是異質性很高的疾病，基因體異常是預後的關鍵驅動因子，目前標準治療已進入 dara-quad 時代。提示下一頁：回顧過去分期系統的演進。
+-->
 
 ---
 
 ## Evolution of Staging Systems
 
-| System | Year | Components | Limitations |
-|---|---|---|---|
-| Durie-Salmon | 1975 | Tumor mass, organ damage (anemia, renal, Ca, bone) | Poor reproducibility; limited prognostic value with modern Tx |
-| ISS | 2005 | Albumin, β2-microglobulin | Simple but no genomics; most patients fall in intermediate risk |
-| R-ISS | 2015 | ISS + del(17p), t(4;14), t(14;16), LDH | Only 3 FISH markers; HR group only 8% |
-| R2-ISS | 2022 | ISS + del(17p), gain1q, t(4;14), LDH | 4-tier; HR group only 6%; not widely adopted |
+| System       | Year | Components                                         | Limitations                                                     |
+| ------------ | ---- | -------------------------------------------------- | --------------------------------------------------------------- |
+| Durie-Salmon | 1975 | Tumor mass, organ damage (anemia, renal, Ca, bone) | Poor reproducibility; limited prognostic value with modern Tx   |
+| ISS          | 2005 | Albumin, β2-microglobulin                          | Simple but no genomics; most patients fall in intermediate risk |
+| R-ISS        | 2015 | ISS + del(17p), t(4;14), t(14;16), LDH             | Only 3 FISH markers; HR group only 8%                           |
+| R2-ISS       | 2022 | ISS + del(17p), gain1q, t(4;14), LDH               | 4-tier; HR group only 6%; not widely adopted                    |
 
-<!-- 這張投影片要強調：分期系統從 1975 年的 Durie-Salmon 到 2022 年的 R2-ISS，逐步納入更多生物標記，但每一代都有其局限性。特別注意高風險組佔比很小，代表分辨力不足。提示下一頁：進一步探討先前分期系統的不足。 -->
+<!--
+這張投影片要強調：分期系統從 1975 年的 Durie-Salmon 到 2022 年的 R2-ISS，逐步納入更多生物標記，但每一代都有其局限性。特別注意高風險組佔比很小，代表分辨力不足。提示下一頁：進一步探討先前分期系統的不足。
+-->
 
 ---
 
@@ -75,18 +83,20 @@ Core problem: existing systems fail to identify the truly high-risk population, 
 
 </div>
 
-<!-- 這張投影片要強調：過去的分期系統有幾個關鍵盲點——缺少 TP53 突變、不考慮共現、高風險組太小。這些都是 CGS 試圖解決的問題。提示下一頁：介紹新的 CGS 定義。 -->
+<!--
+這張投影片要強調：過去的分期系統有幾個關鍵盲點——缺少 TP53 突變、不考慮共現、高風險組太小。這些都是 CGS 試圖解決的問題。提示下一頁：介紹新的 CGS 定義。
+-->
 
 ---
 
 ## IMS-IMWG Consensus Genomic Staging (CGS) Definition
 
-| Criterion | Details | Cutoff |
-|---|---|---|
-| 1. TP53 aberration | del(17p) OR TP53 mutation | del(17p) CCF >20% |
+| Criterion                   | Details                                                  | Cutoff                 |
+| --------------------------- | -------------------------------------------------------- | ---------------------- |
+| 1. TP53 aberration          | del(17p) OR TP53 mutation                                | del(17p) CCF >20%      |
 | 2. IgH translocation + Chr1 | t(4;14), t(14;16), or t(14;20) WITH 1q+ and/or del(1p32) | Co-occurrence required |
-| 3. del(1p32) + 1q+ | Monoallelic del(1p32) WITH 1q+, or biallelic del(1p32) | — |
-| 4. High B2M | B2M ≥5.5 mg/L with normal creatinine | Cr <1.2 mg/dL |
+| 3. del(1p32) + 1q+          | Monoallelic del(1p32) WITH 1q+, or biallelic del(1p32)   | —                      |
+| 4. High B2M                 | B2M ≥5.5 mg/L with normal creatinine                     | Cr <1.2 mg/dL          |
 
 <div class="mt-2 p-3 bg-teal-50 rounded-lg text-teal-900">
 
@@ -94,11 +104,16 @@ ANY single criterion met → High-Risk (HR). First staging system to incorporate
 
 </div>
 
-<!-- 這張投影片要強調：CGS 有四大條件，任一符合即為高風險。創新之處在於：(1)首次納入 TP53 突變、(2)強調基因體異常的共現效應、(3)B2M 獨立於 ISS 且排除腎功能影響。提示下一頁：談談 dara-quad 時代的背景。 -->
+<!--
+這張投影片要強調：CGS 有四大條件，任一符合即為高風險。創新之處在於：(1)首次納入 TP53 突變、(2)強調基因體異常的共現效應、(3)B2M 獨立於 ISS 且排除腎功能影響。提示下一頁：談談 dara-quad 時代的背景。
+-->
 
 ---
 
 ## Daratumumab-Quadruplet Era
+
+<div class="grid grid-cols-2 gap-8">
+<div>
 
 - **DVRd**: daratumumab + lenalidomide + bortezomib + dexamethasone
 - **DKRd**: daratumumab + lenalidomide + carfilzomib + dexamethasone
@@ -107,7 +122,27 @@ ANY single criterion met → High-Risk (HR). First staging system to incorporate
 - Trials that informed CGS did **not include TP53 mutation data**
 - Need to validate CGS with modern therapy including TP53mut
 
-<!-- 這張投影片要強調：雖然 dara-quad 已是標準治療，但過去的試驗缺乏完整的基因體資料，特別是 TP53 突變。因此 CGS 在 dara-quad 時代的驗證是一個重要的未滿足需求。提示下一頁：本研究的目標。 -->
+</div>
+<div>
+
+### Quick Comparison
+
+<!-- prettier-ignore -->
+| | **DVRd** | **DKRd** |
+|---|---|---|
+| Trial | PERSEUS | MASTER |
+| Phase | 3 | 2 |
+| Transplant eligible | Yes | Yes |
+| PI | Bortezomib | Carfilzomib |
+| Notable angle | PFS superiority vs VRd | MRD-guided cessation |
+| High-risk outcome | Improved but still inferior | Persistent gap in ultra-high-risk |
+
+</div>
+</div>
+
+<!--
+這張投影片要強調：雖然 dara-quad 已是標準治療，但過去的試驗缺乏完整的基因體資料，特別是 TP53 突變。因此 CGS 在 dara-quad 時代的驗證是一個重要的未滿足需求。提示下一頁：本研究的目標。
+-->
 
 ---
 
@@ -127,7 +162,9 @@ First study to validate CGS with TP53 mutation data in the dara-quad setting.
 
 </div>
 
-<!-- 這張投影片要強調：這是一個 MSKCC 的 503 人真實世界世代研究，涵蓋 DKRd 和 DVRd 兩種 dara-quad 方案，中位追蹤 2.2 年。最重要的是這是首次在 dara-quad 時代以 TP53 突變資料驗證 CGS。提示下一頁：進入方法學部分。 -->
+<!--
+這張投影片要強調：這是一個 MSKCC 的 503 人真實世界世代研究，涵蓋 DKRd 和 DVRd 兩種 dara-quad 方案，中位追蹤 2.2 年。最重要的是這是首次在 dara-quad 時代以 TP53 突變資料驗證 CGS。提示下一頁：進入方法學部分。
+-->
 
 ---
 layout: chapter
@@ -135,20 +172,22 @@ layout: chapter
 
 # Methods
 
-<!-- 這張投影片要強調：接下來介紹研究方法，包括病患族群、治療方案、基因體資料來源及統計方法。提示下一頁：先看病患族群的組成。 -->
+<!--
+這張投影片要強調：接下來介紹研究方法，包括病患族群、治療方案、基因體資料來源及統計方法。提示下一頁：先看病患族群的組成。
+-->
 
 ---
 
 ## Patient Population
 
-| | DKRd (n=149) | DVRd (n=354) |
-|---|---|---|
-| Source | MANHATTAN trial + SOC | SOC |
-| Median age | — | — |
-| ASCT rate | 52% (overall) | 52% (overall) |
-| CGS HR | 34% | 27% |
-| PFS difference | p=0.69 (no difference) | — |
-| OS difference | p=0.8 (no difference) | — |
+|                | DKRd (n=149)           | DVRd (n=354)  |
+| -------------- | ---------------------- | ------------- |
+| Source         | MANHATTAN trial + SOC  | SOC           |
+| Median age     | —                      | —             |
+| ASCT rate      | 52% (overall)          | 52% (overall) |
+| CGS HR         | 34%                    | 27%           |
+| PFS difference | p=0.69 (no difference) | —             |
+| OS difference  | p=0.8 (no difference)  | —             |
 
 <div class="mt-2 p-3 bg-teal-50 rounded-lg text-teal-900">
 
@@ -156,7 +195,9 @@ No significant difference in PFS or OS between DKRd and DVRd — pooled analysis
 
 </div>
 
-<!-- 這張投影片要強調：兩組 dara-quad 方案的病患在 PFS 和 OS 上沒有統計差異，支持合併分析。DKRd 組的 CGS 高風險比例略高(34% vs 27%)，可能反映 MANHATTAN 試驗的選入特性。提示下一頁：治療流程的細節。 -->
+<!--
+這張投影片要強調：兩組 dara-quad 方案的病患在 PFS 和 OS 上沒有統計差異，支持合併分析。DKRd 組的 CGS 高風險比例略高(34% vs 27%)，可能反映 MANHATTAN 試驗的選入特性。提示下一頁：治療流程的細節。
+-->
 
 ---
 
@@ -190,7 +231,9 @@ No significant difference in PFS or OS between DKRd and DVRd — pooled analysis
 
 </div>
 
-<!-- 這張投影片要強調：治療流程包括誘導、移植與維持治療。約一半病患接受 ASCT，維持治療以 lenalidomide 為主。少數病患(4%)在療程中轉換方案。提示下一頁：基因體資料的來源與完整性。 -->
+<!--
+這張投影片要強調：治療流程包括誘導、移植與維持治療。約一半病患接受 ASCT，維持治療以 lenalidomide 為主。少數病患(4%)在療程中轉換方案。提示下一頁：基因體資料的來源與完整性。
+-->
 
 ---
 
@@ -209,18 +252,20 @@ MSK-IMPACT-Heme = FDA-approved targeted sequencing panel (468 genes)
 
 </div>
 
-<!-- 這張投影片要強調：96%的病患有 FISH 和 SNP-array 資料，約一半有 MSK-IMPACT-Heme 的 NGS 資料可偵測 TP53 突變。資料的完整性是本研究的優勢之一。注意 biallelic del(1p32)未常規檢測是一個限制。提示下一頁：CGS 在本研究中的具體應用方式。 -->
+<!--
+這張投影片要強調：96%的病患有 FISH 和 SNP-array 資料，約一半有 MSK-IMPACT-Heme 的 NGS 資料可偵測 TP53 突變。資料的完整性是本研究的優勢之一。注意 biallelic del(1p32)未常規檢測是一個限制。提示下一頁：CGS 在本研究中的具體應用方式。
+-->
 
 ---
 
 ## CGS Application in This Study
 
-| Criterion | Data Source | Completeness |
-|---|---|---|
-| 1. del(17p) >20% CCF / TP53mut | FISH + MSK-IMPACT-Heme | 96% FISH; ~50% NGS |
-| 2. IgH translocation + 1q+/del(1p32) | FISH + SNP-array | 96% |
-| 3. del(1p32) + 1q+ | SNP-array | 96% |
-| 4. B2M ≥5.5 + Cr <1.2 | Clinical labs | ~100% |
+| Criterion                            | Data Source            | Completeness       |
+| ------------------------------------ | ---------------------- | ------------------ |
+| 1. del(17p) >20% CCF / TP53mut       | FISH + MSK-IMPACT-Heme | 96% FISH; ~50% NGS |
+| 2. IgH translocation + 1q+/del(1p32) | FISH + SNP-array       | 96%                |
+| 3. del(1p32) + 1q+                   | SNP-array              | 96%                |
+| 4. B2M ≥5.5 + Cr <1.2                | Clinical labs          | ~100%              |
 
 <div class="mt-2 p-3 bg-teal-50 rounded-lg text-teal-900">
 
@@ -228,7 +273,9 @@ MSK-IMPACT-Heme = FDA-approved targeted sequencing panel (468 genes)
 
 </div>
 
-<!-- 這張投影片要強調：CGS 四項條件各有對應的檢測平台，整體完整性高(96%)。約 6%病患資料不足，如果納入，高風險組佔比約 29%，遠高於 R-ISS 的 8%和 R2-ISS 的 6%。提示下一頁：統計方法的概述。 -->
+<!--
+這張投影片要強調：CGS 四項條件各有對應的檢測平台，整體完整性高(96%)。約 6%病患資料不足，如果納入，高風險組佔比約 29%，遠高於 R-ISS 的 8%和 R2-ISS 的 6%。提示下一頁：統計方法的概述。
+-->
 
 ---
 
@@ -241,7 +288,9 @@ MSK-IMPACT-Heme = FDA-approved targeted sequencing panel (468 genes)
 - **Landmark analyses**: from ASCT and from 1 year of therapy
 - Analysis tool: R Studio Version 2025.05.0+496
 
-<!-- 這張投影片要強調：統計方法涵蓋存活分析（KM、Cox）、MRD 比較（Fisher exact）及地標分析。地標分析分別以 ASCT 和治療滿一年為起點，可避免不朽時間偏差。提示下一頁：進入結果部分。 -->
+<!--
+這張投影片要強調：統計方法涵蓋存活分析（KM、Cox）、MRD 比較（Fisher exact）及地標分析。地標分析分別以 ASCT 和治療滿一年為起點，可避免不朽時間偏差。提示下一頁：進入結果部分。
+-->
 
 ---
 layout: chapter
@@ -249,40 +298,59 @@ layout: chapter
 
 # Results
 
-<!-- 這張投影片要強調：進入結果部分，涵蓋病人特徵、CGS 與既有分期系統的比較、風險因子分布及治療比較。提示下一頁：首先看病人基本資料。 -->
+<!--
+這張投影片要強調：進入結果部分，涵蓋病人特徵、CGS 與既有分期系統的比較、風險因子分布及治療比較。提示下一頁：首先看病人基本資料。
+-->
 
 ---
 
 ## Patient Demographics
 
-| Characteristic | All (n=503) | DKRd (n=149) | DVRd (n=354) |
-|---|---|---|---|
-| Median follow-up | 2.2y (IQR 1.3–3.4) | — | — |
-| Maximum follow-up | 7.9y | — | — |
-| ASCT performed | 52% | — | — |
-| Induction cycles pre-ASCT | 4 (IQR 4–6) | — | — |
-| Total cycles | 6 (IQR 4–8) | — | — |
-| Genomic data available | 481/503 (96%) | — | — |
-| TP53mut data available | ~50% | 47% | 50% |
+<div class="grid grid-cols-2 gap-8">
+<div>
+
+| Characteristic            | All (n=503)        |
+| ------------------------- | ------------------ |
+| Median follow-up          | 2.2y (IQR 1.3–3.4) |
+| Maximum follow-up         | 7.9y               |
+| ASCT performed            | 52%                |
+| Induction cycles pre-ASCT | 4 (IQR 4–6)        |
+| Total cycles              | 6 (IQR 4–8)        |
+| Genomic data available    | 481/503 (96%)      |
+
+</div>
+<div>
+
+| By Regimen     | DKRd (n=149) | DVRd (n=354) |
+| -------------- | ------------ | ------------ |
+| CGS HR         | 34%          | 27%          |
+| TP53mut tested | 47%          | 50%          |
+| PFS difference | p=0.69       | (no diff)    |
+| OS difference  | p=0.8        | (no diff)    |
+
+</div>
+</div>
 
 <div class="mt-2 p-3 bg-teal-50 rounded-lg text-teal-900">
 
-96% of patients had genomic data available — enabling robust validation of CGS criteria across the combined cohort.
+96% of patients had genomic data available. No significant PFS/OS difference between DKRd and DVRd — pooled analysis justified.
 
 </div>
 
-<!-- 這張投影片要強調：兩個臨床試驗合併共 503 位病人，中位追蹤 2.2 年，最長達 7.9 年。96% 有完整基因組資料，但 TP53mut 資料僅約一半病人有。52% 接受 ASCT。提示下一頁：接下來比較 CGS 與過去分期系統辨識高風險的能力。 -->
+<!--
+這張投影片要強調：兩個臨床試驗合併共 503 位病人，中位追蹤 2.2 年，最長達 7.9 年。96% 有完整基因組資料，但 TP53mut 資料僅約一半病人有。52% 接受 ASCT。提示下一頁：接下來比較 CGS 與過去分期系統辨識高風險的能力。
+-->
 
 ---
 
 ## CGS vs Prior Staging: High-Risk Identification
 
-| Staging System | % High-Risk | Year | Criteria Count |
-|---|---|---|---|
-| **IMS-IMWG CGS** | **31%** | 2025 | 4 genomic criteria |
-| ISS (III) | 19% | 2005 | Albumin + β2M |
-| R-ISS (III) | 8% | 2015 | ISS + 3 FISH + LDH |
-| R2-ISS (IV) | 6% | 2022 | ISS + 4 FISH + LDH |
+| Staging System   | % High-Risk | Year | Criteria Count     |
+| ---------------- | ----------- | ---- | ------------------ |
+| **IMS-IMWG CGS** | **31%**     | 2025 | 4 genomic criteria |
+| ISS (III)        | 19%         | 2005 | Albumin + β2M      |
+| R-ISS (III)      | 8%          | 2015 | ISS + 3 FISH + LDH |
+| R2-ISS (IV)      | 6%          | 2022 | ISS + 4 FISH + LDH |
 
 <div class="mt-2 p-3 bg-teal-50 rounded-lg text-teal-900">
 
@@ -290,7 +358,9 @@ CGS identifies 31% as high-risk — better delineating risk among patients deeme
 
 </div>
 
-<!-- 這張投影片要強調：這是關鍵比較。過去分期系統辨識高風險比例從 R2-ISS 的 6% 到 ISS 的 19%，而 CGS 辨識出 31%。R2-ISS IV 僅 6% 對臨床試驗 enrichment 不實際，CGS 31% 更適合設計新藥試驗。CGS 純粹基於基因組標準，不依賴臨床指標如 LDH 或 albumin。提示下一頁：為什麼 CGS 要求多個風險因子共存？看 concurrence heatmap。 -->
+<!--
+這張投影片要強調：這是關鍵比較。過去分期系統辨識高風險比例從 R2-ISS 的 6% 到 ISS 的 19%，而 CGS 辨識出 31%。R2-ISS IV 僅 6% 對臨床試驗 enrichment 不實際，CGS 31% 更適合設計新藥試驗。CGS 純粹基於基因組標準，不依賴臨床指標如 LDH 或 albumin。提示下一頁：為什麼 CGS 要求多個風險因子共存？看 concurrence heatmap。
+-->
 
 ---
 
@@ -305,10 +375,10 @@ CGS identifies 31% as high-risk — better delineating risk among patients deeme
 <div>
 
 | IgH Translocation | Co-occurrence with 1q+/del(1p32) |
-|---|---|
-| t(4;14) | 72% (34/47) |
-| t(14;16) | 86% (19/22) |
-| t(14;20) | 100% (7/7) |
+| ----------------- | -------------------------------- |
+| t(4;14)           | 72% (34/47)                      |
+| t(14;16)          | 86% (19/22)                      |
+| t(14;20)          | 100% (7/7)                       |
 
 <div class="mt-2 p-3 bg-teal-50 rounded-lg text-teal-900">
 
@@ -319,19 +389,21 @@ High concurrence rates justify the CGS design: IgH translocations alone are insu
 </div>
 </div>
 
-<!-- 這張投影片要強調：Avet-Loiseau 等人描述的風險因子共存現象。t(4;14) 有 72% 同時帶有 1q+ 或 del(1p32)，t(14;16) 達 86%，t(14;20) 更是 100%。這驗證了 CGS 要求 IgH translocation 與 chr1 異常共存才算高風險的設計理念——單一 IgH translocation 不足以定義高風險。提示下一頁：各別 CGS 標準的盛行率。 -->
+<!--
+這張投影片要強調：Avet-Loiseau 等人描述的風險因子共存現象。t(4;14) 有 72% 同時帶有 1q+ 或 del(1p32)，t(14;16) 達 86%，t(14;20) 更是 100%。這驗證了 CGS 要求 IgH translocation 與 chr1 異常共存才算高風險的設計理念——單一 IgH translocation 不足以定義高風險。提示下一頁：各別 CGS 標準的盛行率。
+-->
 
 ---
 
 ## Individual CGS Criterion Distribution
 
-| CGS Criterion | Prevalence | Details |
-|---|---|---|
-| 1. del(17p) >20% CCF / TP53mut | 12% | 14 TP53mut; 9 co-occurring with del(17p) |
-| 2. IgH translocation + 1q+/del(1p32) | 12% | t(4;14), t(14;16), t(14;20) with chr1 |
-| 3. del(1p32) + 1q+ or biallelic del(1p32) | 7% | Monoallelic + 1q+ combination |
-| 4. β2M ≥5.5 + Cr <1.2 mg/dL | 7% | Excludes renal impairment patients |
-| **Any criterion (HR)** | **31%** | — |
+| CGS Criterion                             | Prevalence | Details                                  |
+| ----------------------------------------- | ---------- | ---------------------------------------- |
+| 1. del(17p) >20% CCF / TP53mut            | 12%        | 14 TP53mut; 9 co-occurring with del(17p) |
+| 2. IgH translocation + 1q+/del(1p32)      | 12%        | t(4;14), t(14;16), t(14;20) with chr1    |
+| 3. del(1p32) + 1q+ or biallelic del(1p32) | 7%         | Monoallelic + 1q+ combination            |
+| 4. β2M ≥5.5 + Cr <1.2 mg/dL               | 7%         | Excludes renal impairment patients       |
+| **Any criterion (HR)**                    | **31%**    | —                                        |
 
 <div class="mt-2 p-3 bg-teal-50 rounded-lg text-teal-900">
 
@@ -339,7 +411,9 @@ No single criterion dominates — each contributes independently to the 31% high
 
 </div>
 
-<!-- 這張投影片要強調：四個 CGS 標準各自盛行率為 12%、12%、7%、7%，合計 31% 為高風險。del(17p)/TP53mut 與 IgH+chr1 各佔 12% 為最常見。第四條標準 β2M ≥5.5 搭配 Cr <1.2 是唯一非純基因組標準，排除腎功能不全以避免 β2M 假性升高。提示下一頁：治療方案比較，確認合併分析的合理性。 -->
+<!--
+這張投影片要強調：四個 CGS 標準各自盛行率為 12%、12%、7%、7%，合計 31% 為高風險。del(17p)/TP53mut 與 IgH+chr1 各佔 12% 為最常見。第四條標準 β2M ≥5.5 搭配 Cr <1.2 是唯一非純基因組標準，排除腎功能不全以避免 β2M 假性升高。提示下一頁：治療方案比較，確認合併分析的合理性。
+-->
 
 ---
 
@@ -372,7 +446,9 @@ HR patients: DKRd 34% vs DVRd 27%. ASCT rate: SR 54% vs HR 46% (p=0.13). Compara
 
 </div>
 
-<!-- 這張投影片要強調：DKRd 和 DVRd 在 PFS（p=0.69）和 OS（p=0.8）均無顯著差異，因此後續分析合併兩組資料不做治療分層。DKRd 組高風險比例略高（34% vs 27%）。ASCT 比例整體 52%，標準風險 54% vs 高風險 46%，無顯著差異（p=0.13）。提示下一頁：接下來進入 CGS 的預後分析結果。 -->
+<!--
+這張投影片要強調：DKRd 和 DVRd 在 PFS（p=0.69）和 OS（p=0.8）均無顯著差異，因此後續分析合併兩組資料不做治療分層。DKRd 組高風險比例略高（34% vs 27%）。ASCT 比例整體 52%，標準風險 54% vs 高風險 46%，無顯著差異（p=0.13）。提示下一頁：接下來進入 CGS 的預後分析結果。
+-->
 
 ---
 
@@ -395,17 +471,19 @@ HR patients: DKRd 34% vs DVRd 27%. ASCT rate: SR 54% vs HR 46% (p=0.13). Compara
 </div>
 </div>
 
-<!-- 這張投影片要強調：CGS 的核心結果——HR 與 SR 的 PFS 差異極為顯著，中位數差距超過 4 年。即使限定於接受 ASCT 的患者或以 landmark 分析，結論一致。提示下一頁：接下來看具體的 event rate 數據。 -->
+<!--
+這張投影片要強調：CGS 的核心結果——HR 與 SR 的 PFS 差異極為顯著，中位數差距超過 4 年。即使限定於接受 ASCT 的患者或以 landmark 分析，結論一致。提示下一頁：接下來看具體的 event rate 數據。
+-->
 
 ---
 
 ## PFS & OS Event Rates by CGS
 
-| Outcome | High-Risk | Standard-Risk | p-value |
-|---------|-----------|---------------|---------|
-| 1-year PFS | 82% | 94% | <0.0001 |
-| 2-year PFS | 63% | 88% | <0.0001 |
-| 2-year OS | 95% | 99% | 0.0016 |
+| Outcome    | High-Risk | Standard-Risk | p-value |
+| ---------- | --------- | ------------- | ------- |
+| 1-year PFS | 82%       | 94%           | <0.0001 |
+| 2-year PFS | 63%       | 88%           | <0.0001 |
+| 2-year OS  | 95%       | 99%           | 0.0016  |
 
 <div class="mt-2 p-3 bg-amber-50 rounded-lg text-amber-900">
 
@@ -413,7 +491,9 @@ OS estimates remain immature given median follow-up of only 2.2 years. Longer fo
 
 </div>
 
-<!-- 這張投影片要強調：2 年 PFS 差距達 25 個百分點（63% vs 88%），OS 也有統計學差異但尚未成熟。即使在 dara-quad 時代，HR 患者在 2 年內仍有近 40% 進展。提示下一頁：ISS 分期是否仍有獨立預後價值？ -->
+<!--
+這張投影片要強調：2 年 PFS 差距達 25 個百分點（63% vs 88%），OS 也有統計學差異但尚未成熟。即使在 dara-quad 時代，HR 患者在 2 年內仍有近 40% 進展。提示下一頁：ISS 分期是否仍有獨立預後價值？
+-->
 
 ---
 
@@ -427,11 +507,11 @@ OS estimates remain immature given median follow-up of only 2.2 years. Longer fo
 </div>
 <div>
 
-| ISS Stage | Median PFS | n |
-|-----------|-----------|---|
-| ISS I | NR (>6.4y) | — |
-| ISS II | 6.4y | — |
-| ISS III | 2.9y | 86 |
+| ISS Stage | Median PFS | n   |
+| --------- | ---------- | --- |
+| ISS I     | NR (>6.4y) | —   |
+| ISS II    | 6.4y       | —   |
+| ISS III   | 2.9y       | 86  |
 
 - **p = 0.00015**
 - ISS retains prognostic value in the dara-quad era
@@ -439,7 +519,9 @@ OS estimates remain immature given median follow-up of only 2.2 years. Longer fo
 </div>
 </div>
 
-<!-- 這張投影片要強調：ISS 分期在 dara-quad 時代仍具有預後價值，ISS III 的中位 PFS 僅 2.9 年。這為後續 CGS + ISS 的組合分析鋪路。提示下一頁：CGS 與 ISS 的交互作用。 -->
+<!--
+這張投影片要強調：ISS 分期在 dara-quad 時代仍具有預後價值，ISS III 的中位 PFS 僅 2.9 年。這為後續 CGS + ISS 的組合分析鋪路。提示下一頁：CGS 與 ISS 的交互作用。
+-->
 
 ---
 
@@ -453,11 +535,11 @@ OS estimates remain immature given median follow-up of only 2.2 years. Longer fo
 </div>
 <div>
 
-| Subgroup | Median PFS |
-|---|---|
-| ISS I-II + SR | NR (>6.4y) |
-| ISS III + HR | 2.6y |
-| ISS III + SR | 3.0y (still poor) |
+| Subgroup      | Median PFS        |
+| ------------- | ----------------- |
+| ISS I-II + SR | NR (>6.4y)        |
+| ISS III + HR  | 2.6y              |
+| ISS III + SR  | 3.0y (still poor) |
 
 - **p < 0.0001**
 
@@ -470,7 +552,9 @@ OS estimates remain immature given median follow-up of only 2.2 years. Longer fo
 
 </div>
 
-<!-- 這張投影片要強調：ISS III 即使被 CGS 歸為 SR，PFS 仍然很短（3.0y），接近 HR 的 2.6y。這是因為 CGS 的 B2M 標準排除了肌酐偏高的患者。ISS 分期可能仍需與 CGS 搭配使用。提示下一頁：逐一檢視個別 risk factor 的貢獻，從 TP53 開始。 -->
+<!--
+這張投影片要強調：ISS III 即使被 CGS 歸為 SR，PFS 仍然很短（3.0y），接近 HR 的 2.6y。這是因為 CGS 的 B2M 標準排除了肌酐偏高的患者。ISS 分期可能仍需與 CGS 搭配使用。提示下一頁：逐一檢視個別 risk factor 的貢獻，從 TP53 開始。
+-->
 
 ---
 
@@ -501,7 +585,9 @@ OS estimates remain immature given median follow-up of only 2.2 years. Longer fo
 </div>
 </div>
 
-<!-- 這張投影片要強調：TP53 異常（包含 del17p 高 CCF 和 TP53 突變）是最強的單一預後因子。特別注意 biallelic TP53 幾乎全部在短期內進展或死亡。CCF 20% 的 cutoff 在本研究中得到驗證。提示下一頁：1q+ 和 IgH 易位的交互作用。 -->
+<!--
+這張投影片要強調：TP53 異常（包含 del17p 高 CCF 和 TP53 突變）是最強的單一預後因子。特別注意 biallelic TP53 幾乎全部在短期內進展或死亡。CCF 20% 的 cutoff 在本研究中得到驗證。提示下一頁：1q+ 和 IgH 易位的交互作用。
+-->
 
 ---
 
@@ -531,7 +617,9 @@ OS estimates remain immature given median follow-up of only 2.2 years. Longer fo
 </div>
 </div>
 
-<!-- 這張投影片要強調：1q+ 合併 IgH 易位的預後特別差（2.0y），比單獨 1q+（3.6y）更差。del(1p32) 合併 1q+ 也是不良組合。這些組合效應正是 CGS 設計的依據。提示下一頁：del(1p32) 與 B2M 的分析。 -->
+<!--
+這張投影片要強調：1q+ 合併 IgH 易位的預後特別差（2.0y），比單獨 1q+（3.6y）更差。del(1p32) 合併 1q+ 也是不良組合。這些組合效應正是 CGS 設計的依據。提示下一頁：del(1p32) 與 B2M 的分析真的假的
+-->
 
 ---
 
@@ -566,7 +654,9 @@ OS impact confirmed for both 1q+/IgH and elevated B2M — supporting inclusion a
 
 </div>
 
-<!-- 這張投影片要強調：del(1p32) 單獨無預後影響，但與 IgH 易位組合有趨勢。B2M ≥5.5 合併正常腎功能是獨立的不良因子，排除腎功能不全避免混淆。提示下一頁：進入 MRD 分析章節。 -->
+<!--
+這張投影片要強調：del(1p32) 單獨無預後影響，但與 IgH 易位組合有趨勢。B2M ≥5.5 合併正常腎功能是獨立的不良因子，排除腎功能不全避免混淆。提示下一頁：進入 MRD 分析章節。
+-->
 
 ---
 layout: chapter
@@ -574,7 +664,9 @@ layout: chapter
 
 # MRD Analysis
 
-<!-- 這張投影片要強調：從細胞遺傳學風險分層轉入 MRD 分析，這是本研究的第二個核心主題。提示下一頁：誘導治療後的早期 MRD 結果。 -->
+<!--
+這張投影片要強調：從細胞遺傳學風險分層轉入 MRD 分析，這是本研究的第二個核心主題。提示下一頁：誘導治療後的早期 MRD 結果。
+-->
 
 ---
 
@@ -583,11 +675,11 @@ layout: chapter
 - MRD assessed after 4–6 cycles in **453/503 (90%)** patients
 - Overall MRDneg rate: **125/453 (28%)**
 
-| | HR | SR | p-value |
-|---|---|---|---|
-| MRDneg after 4–6 cycles | 32% | 26% | 0.19 |
-| MRDneg after 4 cycles | 28% (79/286) | — | 0.46 |
-| MRDneg after 6 cycles | 31% (54/174) | — | — |
+|                         | HR           | SR  | p-value |
+| ----------------------- | ------------ | --- | ------- |
+| MRDneg after 4–6 cycles | 32%          | 26% | 0.19    |
+| MRDneg after 4 cycles   | 28% (79/286) | —   | 0.46    |
+| MRDneg after 6 cycles   | 31% (54/174) | —   | —       |
 
 <div class="mt-2 p-3 bg-teal-50 rounded-lg text-teal-900">
 
@@ -595,15 +687,17 @@ No significant difference in MRDneg achievement between HR and SR groups, and no
 
 </div>
 
-<!-- 這張投影片要強調：HR 和 SR 的 MRDneg 達成率沒有顯著差異（32% vs 26%），這是一個出乎意料的發現。延長至 6 個週期並未提高 MRDneg 率。提示下一頁：ASCT 後的 MRD 結果。 -->
+<!--
+這張投影片要強調：HR 和 SR 的 MRDneg 達成率沒有顯著差異（32% vs 26%），這是一個出乎意料的發現。延長至 6 個週期並未提高 MRDneg 率。提示下一頁：ASCT 後的 MRD 結果。
+-->
 
 ---
 
 ## MRD after Autologous Stem Cell Transplant
 
-| | HR | SR | p-value |
-|---|---|---|---|
-| MRDneg post-ASCT | 53% | 47% | 0.54 |
+|                  | HR  | SR  | p-value |
+| ---------------- | --- | --- | ------- |
+| MRDneg post-ASCT | 53% | 47% | 0.54    |
 
 - Similar pattern to post-induction: **no difference** by CGS risk
 - Concordant with GRIFFIN trial results
@@ -616,7 +710,9 @@ Both HR and SR patients achieve MRDneg at approximately equal rates after ASCT, 
 
 </div>
 
-<!-- 這張投影片要強調：ASCT 後 MRDneg 率約 50%，HR 與 SR 無差異（53% vs 47%）。這與 GRIFFIN 試驗結果一致。關鍵問題是：達到 MRDneg 是否能克服基因體風險？提示下一頁：答案是否定的。 -->
+<!--
+這張投影片要強調：ASCT 後 MRDneg 率約 50%，HR 與 SR 無差異（53% vs 47%）。這與 GRIFFIN 試驗結果一致。關鍵問題是：達到 MRDneg 是否能克服基因體風險？提示下一頁：答案是否定的。
+-->
 
 ---
 
@@ -653,7 +749,9 @@ MRD-negativity does NOT equalize genomic risk. Achieving MRDneg is necessary but
 
 </div>
 
-<!-- 這張投影片要強調：這是本研究最重要的發現之一。HR 患者可以達到 MRDneg，但 MRDneg 並不能消除基因體風險帶來的不良預後。MRD 和基因體風險是兩個獨立的預後維度。提示下一頁：MRDneg 患者中 CGS 仍有預測力的具體數據。 -->
+<!--
+這張投影片要強調：這是本研究最重要的發現之一。HR 患者可以達到 MRDneg，但 MRDneg 並不能消除基因體風險帶來的不良預後。MRD 和基因體風險是兩個獨立的預後維度。提示下一頁：MRDneg 患者中 CGS 仍有預測力的具體數據。
+-->
 
 ---
 
@@ -672,7 +770,9 @@ CGS risk status remains highly relevant even in the MRDneg state. Standard-risk 
 
 </div>
 
-<!-- 這張投影片要強調：即使在 MRDneg 的患者中，CGS 仍能區分預後。SR + MRDneg 的 OS 在追蹤期間達 100%，而 HR + MRDneg 仍然面臨早期復發。這證明 MRD 不能取代基因體風險分層。提示下一頁：這些發現對 MRD 導向試驗設計的影響。 -->
+<!--
+這張投影片要強調：即使在 MRDneg 的患者中，CGS 仍能區分預後。SR + MRDneg 的 OS 在追蹤期間達 100%，而 HR + MRDneg 仍然面臨早期復發。這證明 MRD 不能取代基因體風險分層。提示下一頁：這些發現對 MRD 導向試驗設計的影響。
+-->
 
 ---
 
@@ -689,7 +789,9 @@ Trial designs using MRD to guide therapy must incorporate genomic risk stratific
 
 </div>
 
-<!-- 這張投影片要強調：這是臨床實踐的關鍵訊息。隨著 MRD 成為 FDA 認可的替代終點，許多試驗正在探索 MRD 導向的治療策略。本研究提供強力證據：任何 MRD 導向的決策都必須同時考慮基因體風險。不能單純因為 MRDneg 就減量或停藥。提示下一頁：進入本研究的限制與未來方向討論。 -->
+<!--
+這張投影片要強調：這是臨床實踐的關鍵訊息。隨著 MRD 成為 FDA 認可的替代終點，許多試驗正在探索 MRD 導向的治療策略。本研究提供強力證據：任何 MRD 導向的決策都必須同時考慮基因體風險。不能單純因為 MRDneg 就減量或停藥。提示下一頁：進入本研究的限制與未來方向討論。
+-->
 
 ---
 layout: chapter
@@ -697,22 +799,24 @@ layout: chapter
 
 # Discussion & Conclusions
 
-<!-- 這張投影片要強調：進入討論與結論段落，回顧本研究的核心發現與臨床意義。提示下一頁：先比較 CGS 與既有分期系統的差異。 -->
+<!--
+這張投影片要強調：進入討論與結論段落，回顧本研究的核心發現與臨床意義。提示下一頁：先比較 CGS 與既有分期系統的差異。
+-->
 
 ---
 
 ## CGS vs Prior Staging Systems
 
-| Feature | ISS | R-ISS | R2-ISS | **CGS** |
-|---|---|---|---|---|
-| Year | 2005 | 2015 | 2022 | **2025** |
-| % HR defined | 19% | 8% | 6% | **31%** |
-| TP53 mutation | No | No | No | **Yes** |
-| IgH + Chr1 interaction | No | No | No | **Yes** |
-| del(1p32) | No | No | No | **Yes** |
-| B2M (renal-adjusted) | Via ISS | Via ISS | Via ISS | **Yes (Cr<1.2)** |
-| Genomic sequencing | No | No | No | **Yes** |
-| Trial-practical HR size | No (19%) | No (8%) | No (6%) | **Yes (31%)** |
+| Feature                 | ISS      | R-ISS   | R2-ISS  | **CGS**          |
+| ----------------------- | -------- | ------- | ------- | ---------------- |
+| Year                    | 2005     | 2015    | 2022    | **2025**         |
+| % HR defined            | 19%      | 8%      | 6%      | **31%**          |
+| TP53 mutation           | No       | No      | No      | **Yes**          |
+| IgH + Chr1 interaction  | No       | No      | No      | **Yes**          |
+| del(1p32)               | No       | No      | No      | **Yes**          |
+| B2M (renal-adjusted)    | Via ISS  | Via ISS | Via ISS | **Yes (Cr<1.2)** |
+| Genomic sequencing      | No       | No      | No      | **Yes**          |
+| Trial-practical HR size | No (19%) | No (8%) | No (6%) | **Yes (31%)**    |
 
 <div class="mt-2 p-3 bg-teal-50 rounded-lg text-teal-900">
 
@@ -720,7 +824,9 @@ CGS is the first staging system that defines a HR group large enough (31%) to po
 
 </div>
 
-<!-- 這張投影片要強調：CGS 在多個維度上優於既有系統，尤其是 HR 比例適合臨床試驗設計，且納入了 TP53 突變與基因體定序。提示下一頁：CGS 在 dara-quad 情境下的驗證結果。 -->
+<!--
+這張投影片要強調：CGS 在多個維度上優於既有系統，尤其是 HR 比例適合臨床試驗設計，且納入了 TP53 突變與基因體定序。提示下一頁：CGS 在 dara-quad 情境下的驗證結果。
+-->
 
 ---
 
@@ -738,7 +844,9 @@ Each CGS criterion remained significant in **multivariate analysis** (HR 2.0–3
 
 </div>
 
-<!-- 這張投影片要強調：CGS 在 dara-quad 時代首次被驗證，31% HR 比例在臨床試驗設計上具有實用性，且各項標準在多變量分析中皆獨立顯著。提示下一頁：ISS III 患者中 CGS 未能完全涵蓋的族群。 -->
+<!--
+這張投影片要強調：CGS 在 dara-quad 時代首次被驗證，31% HR 比例在臨床試驗設計上具有實用性，且各項標準在多變量分析中皆獨立顯著。提示下一頁：ISS III 患者中 CGS 未能完全涵蓋的族群。
+-->
 
 ---
 
@@ -771,7 +879,9 @@ ISS III patients with renal impairment represent a small but clinically importan
 
 </div>
 
-<!-- 這張投影片要強調：CGS 的 B2M 標準排除了腎功能不全的患者，導致部分 ISS III 患者被歸為 SR 但預後不佳，建議合併使用 CGS 與 ISS。提示下一頁：基因體定序在未來風險分層中的角色。 -->
+<!--
+這張投影片要強調：CGS 的 B2M 標準排除了腎功能不全的患者，導致部分 ISS III 患者被歸為 SR 但預後不佳，建議合併使用 CGS 與 ISS。提示下一頁：基因體定序在未來風險分層中的角色。
+-->
 
 ---
 
@@ -808,7 +918,9 @@ ISS III patients with renal impairment represent a small but clinically importan
 
 </div>
 
-<!-- 這張投影片要強調：基因體定序是 CGS 的核心基礎，目前 targeted panel 已可臨床應用，但 WGS 將是未來更全面的方向。提示下一頁：本研究的五大結論。 -->
+<!--
+這張投影片要強調：基因體定序是 CGS 的核心基礎，目前 targeted panel 已可臨床應用，但 WGS 將是未來更全面的方向。提示下一頁：本研究的五大結論。
+-->
 
 ---
 
@@ -826,7 +938,9 @@ CGS redefines high-risk myeloma for the dara-quad era — genomic risk persists 
 
 </div>
 
-<!-- 這張投影片要強調：五大結論涵蓋 CGS 驗證、MRD 與基因體風險的關係、ISS III 的限制、以及基因體定序的必要性。提示下一頁：三個核心 take-home messages。 -->
+<!--
+這張投影片要強調：五大結論涵蓋 CGS 驗證、MRD 與基因體風險的關係、ISS III 的限制、以及基因體定序的必要性。提示下一頁：三個核心 take-home messages。
+-->
 
 ---
 
@@ -847,7 +961,9 @@ Maclachlan KH, Tan CR, Korde N, Usmani SZ et al. — MSKCC Myeloma Service<br/>
 
 Thank you
 
-<!-- 這張投影片要強調：三個最重要的 take-home messages，讓聽眾記住 CGS 的臨床意義、MRD 與基因體風險的整合需求、以及基因體定序應成為常規檢查。提示下一頁：接下來進入 Q&A 環節。 -->
+<!--
+這張投影片要強調：三個最重要的 take-home messages，讓聽眾記住 CGS 的臨床意義、MRD 與基因體風險的整合需求、以及基因體定序應成為常規檢查。提示下一頁：接下來進入 Q&A 環節。
+-->
 
 ---
 layout: chapter
@@ -857,19 +973,23 @@ layout: chapter
 
 Anticipated Discussion Questions
 
-<!-- 這張投影片要強調：以下是預期會被問到的問題與準備好的回答，幫助主持人引導討論。 -->
+<!--
+這張投影片要強調：以下是預期會被問到的問題與準備好的回答，幫助主持人引導討論。
+-->
 
 ---
 
 ## Anticipated Questions
 
-| Question | TL;DR |
-|---|---|
-| **Q1: Why not extend R2-ISS?** | R2-ISS HR = 6% (too small for trials), no TP53mut, no co-occurrence. CGS is genomics-first, not an ISS upgrade. |
-| **Q2: Is 31% HR underestimated?** | Yes — only ~50% had NGS for TP53mut. Universal sequencing would likely push HR higher. |
-| **Q3: Why relapse despite MRDneg?** | 10⁻⁵ sensitivity ceiling, extramedullary disease missed, genomic instability drives subclonal evolution. MRDneg ≠ cured. |
-| **Q4: Single-center — generalizable?** | MSKCC referral bias exists. But CGS was defined by international consensus; this study validates, not defines. Multi-center studies planned. |
-| **Q5: Feasible outside academic centers?** | Mostly yes (FISH + B2M + Cr). Gaps: TP53mut needs NGS, t(14;20) non-routine. Even partial CGS improves over current practice. |
-| **Q6: Actionable now?** | (1) Add TP53mut testing, (2) evaluate co-occurrence not just single markers, (3) do NOT de-escalate HR patients even if MRDneg. |
+| Question                                   | TL;DR                                                                                                                                        |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Q1: Why not extend R2-ISS?**             | R2-ISS HR = 6% (too small for trials), no TP53mut, no co-occurrence. CGS is genomics-first, not an ISS upgrade.                              |
+| **Q2: Is 31% HR underestimated?**          | Yes — only ~50% had NGS for TP53mut. Universal sequencing would likely push HR higher.                                                       |
+| **Q3: Why relapse despite MRDneg?**        | 10⁻⁵ sensitivity ceiling, extramedullary disease missed, genomic instability drives subclonal evolution. MRDneg ≠ cured.                     |
+| **Q4: Single-center — generalizable?**     | MSKCC referral bias exists. But CGS was defined by international consensus; this study validates, not defines. Multi-center studies planned. |
+| **Q5: Feasible outside academic centers?** | Mostly yes (FISH + B2M + Cr). Gaps: TP53mut needs NGS, t(14;20) non-routine. Even partial CGS improves over current practice.                |
+| **Q6: Actionable now?**                    | (1) Add TP53mut testing, (2) evaluate co-occurrence not just single markers, (3) do NOT de-escalate HR patients even if MRDneg.              |
 
-<!-- 六個預期問題的精簡版本，每題一句話回答。 -->
+<!--
+六個預期問題的精簡版本，每題一句話回答。
+-->
