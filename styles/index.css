@@ -105,6 +105,11 @@
 	padding-bottom: 3px;
 }
 
+/* Hover highlight on table cells */
+.slidev-layout tr td:hover {
+	background: #e5e7eb;
+}
+
 /* Thicker bottom border on table header */
 .slidev-layout th {
 	border-bottom: 2px solid #e5e7eb;
@@ -204,11 +209,17 @@
 	box-shadow: -8px 0 0 0 #3d6869;
 	border-radius: 0;
 	color: #134e4a;
+	transition: transform 0.3s ease-out;
 }
 
 /* In default layout (flex column), push blockquote to bottom */
 .slidev-layout.default > blockquote {
 	margin-top: auto;
+}
+
+.slidev-layout blockquote:hover {
+	transform: scale(1.03);
+	transition: transform 0.3s ease-in;
 }
 
 .slidev-layout blockquote p {
