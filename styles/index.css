@@ -24,8 +24,30 @@
 }
 
 /* Strong/bold items in lists get teal color */
+.slidev-layout li {
+	--delay: 0.05s;
+}
+
 .slidev-layout li strong {
 	color: #3d6869;
+	background: #e5e7eb;
+	border-radius: 4px;
+	padding: 1px 6px;
+	animation: fadeInBg 0.5s ease-in backwards;
+	animation-delay: var(--delay);
+}
+
+.slidev-layout li:nth-child(n+2) { --delay: 0.1s; }
+.slidev-layout li:nth-child(n+3) { --delay: 0.15s; }
+.slidev-layout li:nth-child(n+4) { --delay: 0.2s; }
+.slidev-layout li:nth-child(n+5) { --delay: 0.25s; }
+.slidev-layout li:nth-child(n+6) { --delay: 0.3s; }
+.slidev-layout li:nth-child(n+7) { --delay: 0.35s; }
+.slidev-layout li:nth-child(n+8) { --delay: 0.4s; }
+
+@keyframes fadeInBg {
+	from { background: transparent; }
+	to { background: #e5e7eb; }
 }
 
 .slidev-layout,
@@ -62,9 +84,12 @@
 	border-bottom: 2px solid #e5e7eb;
 }
 
-/* Bold first column */
-.slidev-layout td:first-child {
+/* Bold first column, shrink to fit content */
+.slidev-layout td:first-child,
+.slidev-layout th:first-child {
 	font-weight: 700;
+	width: 1%;
+	white-space: nowrap;
 }
 
 /* Chapter layout */
