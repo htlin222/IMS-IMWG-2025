@@ -4,6 +4,16 @@ A reusable [Slidev](https://sli.dev) presentation template with custom layouts, 
 
 [![Use this template](https://img.shields.io/badge/Use%20this%20template-green?style=for-the-badge)](https://github.com/htlin222/my-slidev-template/generate)
 
+## Gallery
+
+| Cover | Chapter Divider |
+|:---:|:---:|
+| ![Cover slide](docs/gallery/slide-01.png) | ![Chapter divider](docs/gallery/slide-02.png) |
+| **Content + Blockquote** | **Table Layout** |
+| ![Content slide](docs/gallery/slide-03.png) | ![Table slide](docs/gallery/slide-04.png) |
+| **List with Icons** | **Definition Table** |
+| ![List slide](docs/gallery/slide-05.png) | ![Definition slide](docs/gallery/slide-06.png) |
+
 ## Quick Start
 
 Click **"Use this template"** on GitHub to create a new repo, then:

@@ -9,6 +9,7 @@ dist/
 *.pptx
 *.png
 !public/images/*.png
+!docs/gallery/*.png
 public/images/*.original.png
 
 # OS files
